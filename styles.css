@@ -52,7 +52,7 @@ body {
 
 .navbar__container {
     display: flex;
-    justify-content: space-between;
+    text-align: center;
     height: 50px;
     z-index: 1;
     width: 100%;
@@ -68,5 +68,5 @@ body {
 }
 
 .main__container {
-    color:#fdfdfd
+    color:#000000
 }
