@@ -9,7 +9,7 @@
 body {
     background: #fe472a;
     background: linear-gradient(90deg, #fe472a 0%, #fe472a 48%, #fe472a 100%);
-  } 
+} 
 
 .images {
     display: flex;
@@ -17,15 +17,6 @@ body {
     column-gap: 50px;
     justify-content: right;
     padding-right: 50px;
-}
-
-button {
-    background-color: transparent;
-    background-repeat: no-repeat;
-    border: none;
-    cursor: pointer;
-    overflow: hidden;
-    outline: none;
 }
 
 .image:hover {
