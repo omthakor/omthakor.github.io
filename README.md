@@ -1,2 +1,2 @@
 # omthakor.github.io
-Personal Website for HTML/CSS Practice
+Personal Website for HTML/CSS/Javascript Practice
