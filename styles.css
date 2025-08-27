@@ -7,8 +7,7 @@
 }
 
 body {
-    background: #fe472a;
-    background: linear-gradient(90deg, #fe472a 0%, #fe472a 48%, #fe472a 100%);
+    background: #F5F5F5;
 } 
 
 .images {
@@ -38,8 +37,7 @@ body {
 }
 
 .navbar {
-    background: #fe472a;
-    background: linear-gradient(90deg, #fe472a 0%, #fe472a 48%, #fe472a 100%);
+    background: #F5F5F5;
     height: 50px;
     align-items: center;
     text-align: center;
